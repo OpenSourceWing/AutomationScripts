@@ -27,7 +27,7 @@ We love your input! We want to make contributing to this project as easy and tra
 * Fork the repo and clone it on your machine.
 * Add a upstream link to main branch in your cloned repo
     ```
-    git remote add upstream https://github.com/python-geeks/Automation-scripts.git
+    git remote add upstream https://github.com/OpenSourceWing/AutomationScripts.git
     ```
 * Keep your cloned repo up to date by pulling from upstream (this will also avoid any merge conflicts while committing new changes)
     ```
